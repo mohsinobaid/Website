@@ -1,0 +1,43 @@
+body{
+	background-color: white;
+	/*font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;*/
+	color: #111; font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+	width: 70%;
+	padding:20px 0px 0px 100px;
+}
+#header{
+	/*background-color: lightblue;*/
+	padding:15px;
+}
+
+#ff{
+	width:30px;
+	height:30px;
+}
+#header li{
+	display:inline;
+
+}
+#pic{
+	float:left;
+	transform:scale(5,5);
+	margin-right: 40px;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+#links{
+	/*background-color: grey;*/
+	border-bottom:1px solid #665544;
+	border-top:1px solid #665544;
+	padding:0.25px;
+}
+
+#links li{
+	display:inline;
+	padding:15px;
+
+}
+img{
+	width:100%;
+}
+
