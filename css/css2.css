@@ -1,0 +1,95 @@
+body{
+	color:#665544;
+	background-color: #d4d0c6
+	//font-family: Georgia, "Times New Roman", serif;
+	font-family: 'Lato', serif;
+	text-align: center;
+}
+.wrapper{
+	width:790px;
+	margin:75px auto;
+	height:850px;
+
+}
+background-color: pink;
+
+.header{
+	height:50px;
+	background-color: lightblue;
+}
+.header h1{
+	width:900px;
+	margin-left: -430px;
+}
+.header p{
+	width:900px;
+	margin-left:-400px;
+	margin-top:-20px;
+}
+.header ul{
+	margin-top: -50px;
+	margin-left: 490px;
+}
+.header li{
+	margin-right: 10px;
+}
+
+#face{
+	float:left;
+	width:100px;
+	height:100px;
+	margin-top: -25px;
+	margin-left: 20px;
+	margin-right:-100px;
+}
+
+.links li{
+	display:inline;
+}
+.imglink{
+	width:20px;
+	height:20px;
+}
+.imglink2{
+	width:150px;
+	height:25px;
+}
+
+.aboutme{
+	height:135px;
+	//background-color: lightgreen;
+	text-align: left;
+	padding: 0px 10px 50px 50px;
+}
+
+.projects{
+	height:200px;
+	width:830px;
+	//background-color: pink;
+	text-align: left;
+	margin-left: 20px;
+	
+
+}
+.proj{
+	float:left;
+	box-shadow: 10px 10px 5px #888888;
+	width:380px;
+	height:150px;
+	margin-right: 20px;
+	margin-top: 20px;
+	border: 3px solid #000000;
+}
+.projpic{
+	height:150px;
+	width:150px;
+	float:left;
+	margin-right: 15px;
+}
+a{
+	color:grey;
+	text-decoration: none;
+}
+a:hover{
+	color:darkgrey;
+}
