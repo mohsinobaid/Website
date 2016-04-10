@@ -1,0 +1,166 @@
+body{
+	color:#665544;
+	background-color: #d4d0c6
+	//font-family: Georgia, "Times New Roman", serif;
+	font-family: 'Lato', serif;
+	text-align: center;
+}
+.wrapper{
+	width:790px;
+	margin:75px auto;
+	height:850px;
+
+}
+background-color: pink;
+
+
+
+
+.header{
+	height:50px;
+	background-color: lightblue;
+}
+.header h1{
+	width:900px;
+	margin-left: -430px;
+}
+.header p{
+	width:900px;
+	margin-left:-400px;
+	margin-top:-20px;
+}
+.header ul{
+	margin-top: -50px;
+	margin-left: 455px;
+	/*marginleft 490*/
+}
+.header li{
+	margin-right: 10px;
+}
+
+#face{
+	float:left;
+	width:100px;
+	height:100px;
+	margin-top: -25px;
+	margin-left: 20px;
+	margin-right:-100px;
+}
+
+.links li{
+	display:inline;
+}
+.imglink{
+	width:30px;
+	height:30px;
+	/*changed from 20*/
+}
+.imglink2{
+	width:155px;
+	height:28px;
+	/*changed from w150 h25*/
+}
+
+.aboutme{
+	/*height:135px;*/
+	margin-top: 30px;
+	height:100px;
+	//background-color: lightgreen;
+	text-align: left;
+	padding: 0px 10px 50px 50px;
+}
+/*
+.intro p,h1{
+	background-color: green;
+	display:inline;
+}
+*/
+.intro p,
+.intro h3{
+	display:inline;
+}
+
+.intro{
+	height:85px;
+}
+.projects{
+	height:200px;
+	width:830px;
+	//background-color: pink;
+	text-align: left;
+	margin-left: 20px;
+	
+
+}
+
+.openProject{
+	height:600px;
+	width:780px;
+	//background-color: blue;
+	text-align: left;
+	margin-left: 20px;
+	border: 3px solid #000000;
+
+
+
+}
+
+.backButton{
+
+}
+
+.proj{
+	float:left;
+	box-shadow: 10px 10px 5px #888888;
+	width:380px;
+	height:150px;
+	margin-right: 20px;
+	margin-top: 20px;
+	border: 3px solid #000000;
+}
+.projpic{
+	height:150px;
+	width:150px;
+	float:left;
+	margin-right: 15px;
+}
+.projects a{
+	color:grey;
+	text-decoration: none;
+}
+a:hover{
+	color:darkgrey;
+}
+
+/*Tabs
+Commenting out for git submit
+also change aboutme height to 100px
+*/
+
+
+
+.tabs a,h2 {
+	display:inline;
+	margin-left: 130px;
+}
+.tit h2, h3, a{
+	display:inline;
+}
+.tit1 a, h2{
+	
+}
+#fit1{
+	text-decoration: underline;
+}
+
+
+
+
+/*
+.men1 h2{
+	padding-right: 200px;
+	text-decoration: pink;
+}
+*/
+
+
